@@ -1,0 +1,124 @@
+	h1.sansserif {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 40px;
+	background-color: #99ffff;
+	text-align: center; 
+		}
+
+	h2.sansserif {
+	font-family: Arial, Helvetica, sans-serif;
+		}
+
+	h3.sansserif {
+	font-family: Arial, Helvetica, sans-serif;
+		}
+
+	h4.sansserif {
+	font-family: Arial, Helvetica, sans-serif;
+		}
+
+	h5.sansserif {
+	font-family: Arial, Helvetica, sans-serif;
+		}
+
+	h6.sansserif {
+	font-family: Arial, Helvetica, sans-serif; 
+		}
+
+
+	a:link {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: #ff9900;
+		}
+
+	a:visited {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: #990099;
+		}
+
+	a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: underline;
+    color: hotpink;
+		}
+
+	a:active {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: underline;
+   	color: #99e6e6;
+		}
+
+	p.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+		}
+
+	b.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+		}
+
+	strong.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+		}
+
+	i.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+		}
+
+	em.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+		}
+
+	small.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+		}
+
+	mark.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+		}
+
+	del.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+		}
+
+	ins.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+		}
+
+	sub.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+		}
+
+	sup.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+		}
+
+	ol.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+		}
+
+	ul.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+		}
+		
+	body {
+    background-image: url("Fondo.png");
+		}
